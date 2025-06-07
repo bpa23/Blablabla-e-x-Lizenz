@@ -22,7 +22,7 @@ Diese Lizenz regelt die Nutzung der zugehörigen Software. Wenn Sie die Software
 Blablabla e^x und umgekehrt ist keine Anwaltskanzlei und erbringt keine Rechtsdienstleistungen. Das Verteilen, Anzeigen oder Verlinken auf diese Commons-Urkunde schafft keine Anwalts-Mandanten-Beziehung.
 
  
-
+1.
 Definitionen
 Die Begriffe "Reproduktion", "Reproduktion", "abgeleitete Werke" und "Verbreitung" haben hier dieselbe Bedeutung wie nach dem US-amerikanischen Urheberrecht.
 
@@ -36,8 +36,7 @@ Ein "Beitragender" ist jede Person, die ihren Beitrag unter dieser Lizenz vertei
 
 "Lizenzierte Patente" sind Patentansprüche eines Beitragenden, die direkt auf seinem Beitrag zu lesen sind.
 
- 
-
+2.
 Im Gegenzug gewähren wir Ihnen eine Freiheit der Rechte. Du stimmst zu …
 (A) gemäß den Bedingungen dieser Lizenz, einschließlich der Lizenzbedingungen und -beschränkungen in Abschnitt 3, gewährt Ihnen jeder Mitwirkende eine nicht ausschließliche, weltweite, gebührenfreie Urheberrechtslizenz zur Vervielfältigung seines Beitrags, zur Erstellung abgeleiteter Werke seines Beitrags und zur Verbreitung seines Beitrags oder von Ihnen erstellter abgeleiteter Werke.
 
@@ -46,7 +45,7 @@ Im Gegenzug gewähren wir Ihnen eine Freiheit der Rechte. Du stimmst zu …
  
 
  
-
+3.
 Bedingungen und Einschränkungen
 Die folgenden Rechte und Einschränkungen gelten für Sie als Mitwirkender, der vom ursprünglichen Eigentümer angeboten wird:
 
@@ -108,7 +107,7 @@ This license governs use of the accompanying software. If you use the software, 
 Blablabla e^x and vice versa is not a law firm and does not provide legal services. Distributing, displaying, or linking to this Commons Deed does not create an attorney-client relationship.
 
  
-
+1.
 Definitions
 The terms "reproduce," "reproduction," "derivative works," and "distribution" have the same meaning here as under U.S. copyright law.
 
@@ -123,7 +122,7 @@ A "contributor" is any person that distributes its contribution under this licen
 "Licensed patents" are a contributor's patent claims that read directly on its contribution.
 
  
-
+2.
 In return we grant you a freedom of rights. You agree …
 (A) to the terms of this license, including the license conditions and limitations in section 3, each contributor grants you a non-exclusive, worldwide, royalty-free copyright license to reproduce its contribution, prepare derivative works of its contribution, and distribute its contribution or any derivative works that you create.
 
@@ -132,7 +131,7 @@ In return we grant you a freedom of rights. You agree …
  
 
  
-
+3.
 Conditions and Limitations
 The following rights and limitations apply to you as a contributor offered by the original owner:
 
@@ -191,7 +190,7 @@ Haec licentia usum programmatis adiuncti moderatur. Utendo Programmate, hanc lic
 Blablabla e ^ x et vice versa non est lex firma nec officia legalia praebet. Distribuere, ostendere vel conjunctionem huic documento Communium advocatus-clientis relationem non creat.
 
  
-
+I(1).
 Definitio
 Verba "reproductionis", "reproductionis", "opera derivativa" et "distributio" eandem significationem habent hic ac sub iure LIBRARIAE us.
 
@@ -206,7 +205,7 @@ Verba "reproductionis", "reproductionis", "opera derivativa" et "distributio" ea
 "Patentes Licentiati" patentes sunt affirmationes contributoris quae directe in eius collatione legi possunt.
 
  
-
+II(2).
 In reditu nobis det illis libertatem iura. Tibi conveniunt …
 (A) sub legibus Huius Licentiae, inclusis licentiae termini et restrictiones In Sectione 3, unusquisque Contributor tibi dat licentiam non exclusivam, per orbem, regium liberum librariae Licentiam Suam Contributionem effingere, opera derivativa Contributionis suae creare, et opera eorum Contributionem vel derivativam ab eis creatam distribuere.
 
@@ -215,7 +214,7 @@ In reditu nobis det illis libertatem iura. Tibi conveniunt …
  
 
  
-
+III(3).
 Condiciones Et Restrictiones
 Sequentia iura et restrictiones tibi applicant ut contributorem ab originali possessore oblatum:
 
@@ -276,7 +275,7 @@ Blablabla e ^ x και αντίστροφα άδεια
 Η Blablabla e^x και αντίστροφα δεν είναι δικηγορικό γραφείο και δεν παρέχει νομικές υπηρεσίες. Η διανομή, η προβολή ή η σύνδεση με αυτό το έγγραφο δεν δημιουργεί σχέση δικηγόρου-πελάτη.
 
  
-
+1.
 Ορισμός
 Οι όροι "Αναπαραγωγή", "Αναπαραγωγή", "Παράγωγα Έργα" και "διανομή" έχουν την ίδια έννοια εδώ με το δίκαιο πνευματικής ιδιοκτησίας των ΗΠΑ.
 
@@ -291,7 +290,7 @@ Blablabla e ^ x και αντίστροφα άδεια
 "Αδειοδοτημένα διπλώματα ευρεσιτεχνίας" είναι αξιώσεις διπλωμάτων ευρεσιτεχνίας ενός συνεισφέροντος που μπορούν να διαβαστούν απευθείας στη συνεισφορά του.
 
  
-
+2.
 Σε αντάλλαγμα, τους παρέχουμε ελευθερία δικαιωμάτων. Συμφωνείς …
 (Α) με την επιφύλαξη των όρων της παρούσας Άδειας, συμπεριλαμβανομένων των όρων και των περιορισμών της άδειας χρήσης στην Ενότητα 3, κάθε συνεισφέρων σας χορηγεί μια μη αποκλειστική, παγκόσμια, άδεια πνευματικής ιδιοκτησίας χωρίς δικαιώματα για την αναπαραγωγή της συνεισφοράς του, τη δημιουργία παράγωγων έργων της συνεισφοράς του και τη διανομή της συνεισφοράς του ή παράγωγων έργων που δημιουργήθηκαν από αυτούς.
 
@@ -300,7 +299,7 @@ Blablabla e ^ x και αντίστροφα άδεια
  
 
  
-
+3.
 Όροι και περιορισμοί
 Τα ακόλουθα δικαιώματα και περιορισμοί ισχύουν για εσάς ως συνεισφέροντα που προσφέρεται από τον αρχικό κάτοχο:
 
